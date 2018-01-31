@@ -41,4 +41,7 @@ class Translator
                     " " => " "}
   end
 
+  def eng_to_morse_code
+    @dictionary
+  end
 end
