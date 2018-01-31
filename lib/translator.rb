@@ -40,4 +40,5 @@ class Translator
                     "0" => "-----",
                     " " => " "}
   end
+
 end
